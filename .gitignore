@@ -1,0 +1,10 @@
+#IntelliJ IDEA
+.idea/
+out/
+*.iml
+.DS_Store
+
+#Eclipse
+.project
+.classpath
+bin/
